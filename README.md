@@ -25,7 +25,7 @@ To run this program, ensure you have the following:
 
 ## Installation
 
-- Clone or download the repository from [Warehouse Management System](https://github.com/Jaik8205/Warehouse-Management-System-By-JaiK).
+- Clone or download the repository from [Warehouse Management System](https://github.com/YashChugani/Warehouse_Management_System).
 - Ensure you have the `warehouse.txt` file in the same directory as the executable.
 - Compile the source code using a C++ compiler:
 - Run the executable:
@@ -74,7 +74,7 @@ To run this program, ensure you have the following:
 
 ## License
 
-This project is licensed under the [GNU General Public License (GPL) version 2](LICENSE.txt). Feel free to modify and distribute the code under the terms of this license.
+This project is licensed under the [GNU General Public License (GPL) version 2](https://github.com/YashChugani/Warehouse_Management_System/blob/main/LICENSE). Feel free to modify and distribute the code under the terms of this license.
 
 
 ---
