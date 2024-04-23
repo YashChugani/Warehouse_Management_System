@@ -74,7 +74,7 @@ To run this program, ensure you have the following:
 
 ## License
 
-This project is licensed under the [GNU General Public License (GPL) version 2](https://github.com/YashChugani/Warehouse_Management_System/blob/main/LICENSE). Feel free to modify and distribute the code under the terms of this license.
+This project is licensed under the [GNU General Public License (GPL) version 3](https://github.com/YashChugani/Warehouse_Management_System/blob/main/LICENSE). Feel free to modify and distribute the code under the terms of this license.
 
 
 ---
